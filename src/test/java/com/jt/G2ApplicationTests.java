@@ -12,6 +12,7 @@ public class G2ApplicationTests {
 	//1
 	@Test
 	public void contextLoads() {
+		//2
 	}
 
 }
