@@ -14,6 +14,7 @@ public class G2ApplicationTests {
 	@Test
 	public void contextLoads() {
 		//b
+		//2
 	}
 
 }
